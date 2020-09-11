@@ -1,0 +1,16 @@
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/mobile-navbar';
+@import 'layout/footer';
+
+@import 'pages/front-page';
+@import 'pages/home';
+@import 'pages/contato';
+@import 'pages/single';
+@import 'pages/404';

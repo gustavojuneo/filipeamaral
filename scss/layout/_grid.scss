@@ -1,0 +1,10 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10%;
+}
