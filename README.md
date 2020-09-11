@@ -14,14 +14,15 @@ O site está hospedado e você consegue acessá-lo atráves do site https://fili
 
 ### Recentes / Fixados
 <img src="https://imgur.com/wR58pUf.png" alt="Recentes">
+
 ### Sobre o Fotógrafo
 <img src="https://imgur.com/UhWFKAT.png" alt="Sobre">
 
-# Portfólio
+## Portfólio
 <img src="https://imgur.com/ec2FFak.png" alt="Página Portfólio">
 
-# Contato
+## Contato
 <img src="https://i.imgur.com/QXfRajy.png" alt="Página contato">
 
-# Rodapé
+## Rodapé
 <img src="https://imgur.com/jdvOY0G.png" alt="Rodapé">https://imgur.com/ec2FFak
