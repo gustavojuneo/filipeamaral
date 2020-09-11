@@ -9,10 +9,19 @@ O objetivo desse tema foi a construção de um portfólio para um fotógrafo, pa
 ### Onde posso ver?
 O site está hospedado e você consegue acessá-lo atráves do site https://filipeamaral.com
 
+## Início
+<img src="https://imgur.com/4yBMwly.png" alt="Página Inicial">
 
-<img src="https://imgur.com/qmLqFmx.png" alt="Página Inicial">
-<img src="https://imgur.com/3wfzXt8.png" alt="Recentes">
+### Recentes / Fixados
+<img src="https://imgur.com/wR58pUf.png" alt="Recentes">
+### Sobre o Fotógrafo
 <img src="https://imgur.com/UhWFKAT.png" alt="Sobre">
+
+# Portfólio
 <img src="https://imgur.com/ec2FFak.png" alt="Página Portfólio">
+
+# Contato
 <img src="https://i.imgur.com/QXfRajy.png" alt="Página contato">
+
+# Rodapé
 <img src="https://imgur.com/jdvOY0G.png" alt="Rodapé">https://imgur.com/ec2FFak
