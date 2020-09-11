@@ -25,4 +25,4 @@ O site está hospedado e você consegue acessá-lo atráves do site https://fili
 <img src="https://i.imgur.com/QXfRajy.png" alt="Página contato">
 
 ## Rodapé
-<img src="https://imgur.com/jdvOY0G.png" alt="Rodapé">https://imgur.com/ec2FFak
+<img src="https://imgur.com/jdvOY0G.png" alt="Rodapé">
