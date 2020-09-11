@@ -1,2 +1,18 @@
-# Template for Wordpress
-Template for wordpress themes create.
+# Tema Filipe Amaral
+
+### Desenvolvimento
+O tema para o wordpress foi completamente desenvolvido do zero, utilizando das linguagens de programação: Javascript, PHP e linguagens de desenvolvimento: HTML5, CSS3, SASS.
+
+### Objetivo
+O objetivo desse tema foi a construção de um portfólio para um fotógrafo, para que o mesmo possa postar os seus projetos e trabalhos já feitos.
+
+### Onde posso ver?
+O site está hospedado e você consegue acessá-lo atráves do site https://filipeamaral.com
+
+
+<img src="https://imgur.com/qmLqFmx.png" alt="Página Inicial">
+<img src="https://imgur.com/3wfzXt8.png" alt="Recentes">
+<img src="https://imgur.com/UhWFKAT.png" alt="Sobre">
+<img src="https://imgur.com/ec2FFak.png" alt="Página Portfólio">
+<img src="https://i.imgur.com/QXfRajy.png" alt="Página contato">
+<img src="https://imgur.com/jdvOY0G.png" alt="Rodapé">https://imgur.com/ec2FFak
