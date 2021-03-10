@@ -6,9 +6,6 @@ O tema para o wordpress foi completamente desenvolvido do zero, utilizando das l
 ### Objetivo
 O objetivo desse tema foi a construção de um portfólio para um fotógrafo, para que o mesmo possa postar os seus projetos e trabalhos já feitos.
 
-### Onde posso ver?
-O site está hospedado e você consegue acessá-lo atráves do site https://filipeamaral.com
-
 ## Início
 <img src="https://imgur.com/4yBMwly.png" alt="Página Inicial">
 
